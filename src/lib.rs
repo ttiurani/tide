@@ -80,6 +80,7 @@ pub mod log;
 pub mod prelude;
 pub mod security;
 pub mod sse;
+pub mod websocket;
 pub mod utils;
 
 #[cfg(feature = "sessions")]
